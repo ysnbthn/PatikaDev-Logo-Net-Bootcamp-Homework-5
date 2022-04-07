@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "HW5.Producer": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
